@@ -7,3 +7,12 @@ I created a custom device which senses and displays the temperature. It is power
 <img width="870" height="544" alt="Screenshot 2026-05-17 at 1 01 11 pm" src="https://github.com/user-attachments/assets/29942b85-52a8-45c1-9f99-1b9188c38776" />
 <img width="738" height="503" alt="Screenshot 2026-05-17 at 1 01 26 pm" src="https://github.com/user-attachments/assets/4269cd92-1069-40c8-bea3-83a0ca113613" />
 <img width="726" height="482" alt="Screenshot 2026-05-17 at 1 01 20 pm" src="https://github.com/user-attachments/assets/fbacb305-a925-4045-9b29-45966cf829b9" />
+
+BOM: 
+128 x 64 OLED display
+EC11 Rotary Encoder
+4.7k resistors (3)
+3.7v Lipo Battery
+XIAO ESP32 S3 Microcontroller
+PCB
+3D printed case from Printing Legion
