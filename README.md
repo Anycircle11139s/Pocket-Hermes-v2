@@ -31,5 +31,12 @@ XIAO ESP32 S3 Microcontroller
 PCB
 <br>
 
+Assembly instructions:
+<br>
+Start by soldering all the components onto the pcb (microcontroller, OLED dislpay, temperature sensor, etc)
+<br>
+Next, solder the Lipo battery to the microcontroller and carefully place it in the case's slot. 
+<br>
+After that, screw the lid down with the m2 screws.
 3D printed case from Printing Legion<br>
 
